@@ -110,4 +110,8 @@ sns.heatmap(conf_matrix, xticklabels = LABELS,
 plt.title("Confusion matrix")
 plt.ylabel('True class')
 plt.xlabel('Predicted class')
+<<<<<<< HEAD
 plt.show()
+=======
+plt.show()
+>>>>>>> 6fa038893ee3134b3598aab02f45fcf770cab861
